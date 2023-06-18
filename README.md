@@ -1,2 +1,2 @@
 # Site
-HomePage and ValidationForm c# + html
+HomePage and ValidationForm ASP.NET core c# + html
